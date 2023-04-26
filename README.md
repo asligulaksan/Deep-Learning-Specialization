@@ -1,8 +1,6 @@
 # Deep-Learning-Specialization
 Programming assignments from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai. 
 
-# DeepLearning.AI-TensorFlow-Developer
-
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
 
 - Train test sets, analyze variance for DL applications, use standard techniques and optimization algorithms, and build neural networks in TensorFlow
